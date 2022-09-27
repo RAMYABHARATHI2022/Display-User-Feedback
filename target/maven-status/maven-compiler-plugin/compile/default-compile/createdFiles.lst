@@ -1,0 +1,6 @@
+com\project\Feedback\FeedbackApplication.class
+com\project\Feedback\controllers\FeedbackController.class
+com\project\Feedback\controllers\RestUpdateController.class
+com\project\Feedback\services\FeedbackService.class
+com\project\Feedback\entities\Feedback.class
+com\project\Feedback\repositories\FeedbackRepository.class
